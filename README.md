@@ -1,11 +1,11 @@
 # Data Analyst
 
 ### Education
-02.2023 - 10.2023 | Turing College: Data Analytics, Full Scholarship (Top 5%)
+02.2023 - 10.2023 -- Turing College: Data Analytics, Full Scholarship (Top 5%)
 
-09.2021 - 12.2023 | Mark Ritson: miniMBA in Marketing
+09.2021 - 12.2023 -- Mark Ritson: miniMBA in Marketing
 
-09.2014 - 07.2016 | Uppsala University: MBA, Business Administration in a Global Society 
+09.2014 - 07.2016 -- Uppsala University: MBA, Business Administration in a Global Society 
 
 ### Recent Work Experience
 Senior communications, social media lead @Cytiva
