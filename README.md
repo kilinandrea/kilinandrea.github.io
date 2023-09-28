@@ -15,4 +15,5 @@ Senior communications, social media lead @Cytiva
 Communication - Digital marketing - Branding - SQL - Tableau - Excel - PowerBI - Looker Studio
 
 ### Projects
-Work-in-progress :octocat:
+Visualizations in Tableau:
+[Relationship between time spent and amount spent on an ecommerce site](https://public.tableau.com/views/M4S2-CampaignsvsnotcampaignTimespentversusamountspent/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) 
