@@ -21,6 +21,7 @@ Visualizations in Tableau:
 2. [Relationship between revenue, time spent and device used on an ecommerce site](https://public.tableau.com/views/M4S1-Graded-AK/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 3. [Purchasing dashboard: vendor geographical distribution, purchase order value distribution - compared to total revenue](https://public.tableau.com/views/M2S2Presentation/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 4. Extended dashboard: Market segmentation revenue trend; Yearly revenue per product category, Yearly revenue increase in %; Revenue projection for offline and online sales; Best performing product categories; Purchase reasons from customers (brand positioning)
+   
    [Open full dashboard here](https://public.tableau.com/views/M2S1Explanatory1/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link) or view below
    
    
